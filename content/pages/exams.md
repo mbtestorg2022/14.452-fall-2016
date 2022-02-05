@@ -59,4 +59,4 @@ where \\(\\phi \\leq 1\\) and \\(L\_R(t)\\) is labor allocated to R&D at time \\
 
 1.  Characterize the BGP in the case where \\(\\phi = 1\\) and \\(n = 0\\). Why does the long-run growth rate depend on \\(\\theta\\)? Why does the growth rate depend on \\(L\\)? Do you find this plausible?
 2.  Now suppose that \\(\\phi = 1\\) and \\(n > 0\\). What happens? Interpret.
-3.  Now characterize the BGP when \\(\\phi < 1\\) and \\(n > 0\\). Does the growth rate depend on \\(L\\)? Does it depend on \\(\\theta\\)? On \\(n\\)? Why? Do you think that the configuration \\(\\phi < 1\\) and \\(n > 0\\) is more plausible than the one with \\(\\phi = 1\\) and \\(n = 0\\)?
+3.  Now characterize the BGP when \\(\\phi \< 1\\) and \\(n > 0\\). Does the growth rate depend on \\(L\\)? Does it depend on \\(\\theta\\)? On \\(n\\)? Why? Do you think that the configuration \\(\\phi \< 1\\) and \\(n > 0\\) is more plausible than the one with \\(\\phi = 1\\) and \\(n = 0\\)?
