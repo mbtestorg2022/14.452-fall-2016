@@ -91,7 +91,7 @@ Young, Alwyn. "[The Tyranny of Numbers: Confronting the Statistical Realities of
 
 Hall, Robert, and Charles I. Jones. "[Why Do Some Countries Produce So Much More Output per Worker than Others?](http://www.jstor.org/stable/2586948)" _The Quarterly Journal of Economics_ 114, no. 1 (1999): 83–116.
 
-Klenow, Peter J., and Andrés Rodriguez-Clare. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Neoclassical Revival in Growth Economics: Has It Gone Too Far?" (PDF)](http://www.nber.org/chapters/c11037.pdf) In _NBER Macroeconomics Annual 1997_. Edited by Ben S. Bernanke and Julio J. Rotemberg. MIT Press, 1997, pp. 73–103. ISBN: 9780262522427.
+Klenow, Peter J., and Andrés Rodriguez-Clare. ["The Neoclassical Revival in Growth Economics: Has It Gone Too Far?" (PDF)](http://www.nber.org/chapters/c11037.pdf) In _NBER Macroeconomics Annual 1997_. Edited by Ben S. Bernanke and Julio J. Rotemberg. MIT Press, 1997, pp. 73–103. ISBN: 9780262522427.
 
 Trefler, Daniel. "[International Factor Price Differences: Leontief Was Right!](http://www.jstor.org/stable/2138568)" _Journal of Political Economy_ 101, no. 6 (1993): 961–87.
 
@@ -137,7 +137,7 @@ Bewley, Truman F. _General Equilibrium, Overlapping Generations Models, and Opti
 
 Shell, Karl. "[Notes on the Economics of Infinity](http://www.jstor.org/stable/1830269)." _Journal of Political Economy_ 79, no. 5 (1971): 1002–11.
 
-Diamond, Peter A. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["National Debt in a Neoclassical Growth Model." (PDF - 1.8MB)](http://people.hss.caltech.edu/~camerer/SS280/DiamondAER65.pdf) _The American Economic Review_ 55, no. 5 (1965): 1126–50.
+Diamond, Peter A. ["National Debt in a Neoclassical Growth Model." (PDF - 1.8MB)](http://people.hss.caltech.edu/~camerer/SS280/DiamondAER65.pdf) _The American Economic Review_ 55, no. 5 (1965): 1126–50.
 
 Jones, Larry. "Special Problems Arising in the Study of Economics with Infinitely Many Commodities." In _Models of Economic Dynamics: Proceedings of a Workshop held at the IMA, University of Minnesota, Minneapolis, USA, October 24–28, 1983 (Lecture Notes in Economics and Mathematical Systems)_. Edited by Hugo F. Sonnenschein. Springer, 1986, pp. 184–205. ISBN: 9783540160984.
 
